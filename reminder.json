@@ -1,0 +1,11 @@
+{
+    "reminders": [
+        {
+            "id": "4367fc64bb10407aa8a844e73dc869bc",
+            "phone_number": "+9779860173024",
+            "message": "hello from twilio",
+            "interval": "monthly",
+            "due_date": "2021-05-06"
+        }
+    ]
+}
